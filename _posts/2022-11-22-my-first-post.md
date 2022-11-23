@@ -6,4 +6,4 @@ date: 2022-11-22
 
 This is some text in my first **blog post**.
 
-![Medieval cat](../Peterborough_cat.jpg)
+![Medieval cat](/blogdemo1/Peterborough_cat.jpg)
