@@ -1,3 +1,7 @@
 theme: minima
 title: My Blog
 author: Peter Binkley
+
+header_pages:
+  - about.md
+  
