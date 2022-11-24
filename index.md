@@ -7,3 +7,5 @@ Hello world
 [link to Google](https://www.google.com)
 
 Paragraphs are separated by blank lines
+
+Here is my [special case](specialcase.html)
